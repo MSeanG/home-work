@@ -1,0 +1,10 @@
+/* reference html5-demos.appspot.com/static/css/flexbox/index.html */
+body {
+    margin: 0 1em;
+}
+header{
+    background-color: #eee;
+    padding: 1em;
+    margin: 10px;
+    border-radius: 10px;
+}
